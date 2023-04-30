@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682815101 source:c:\users\ziada\desktop\c\movetoend\main.c
+	<stdio.h>
+	<stdlib.h>
+
